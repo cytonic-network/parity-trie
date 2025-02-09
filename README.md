@@ -41,7 +41,7 @@ There are also three crates used only for testing:
 
 In the spirit of all things Rust, this aims to be reliable, secure, and high performance.
 
-Used in the [Substrate](https://www.parity.io/) project. If you use this crate and
+Used in the [Substrate](https://www.parity.io/blog/hello-substrate) project. If you use this crate and
 would your project listed here, please contact us.
 
 ## Buidling &c.
